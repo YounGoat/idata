@@ -1,0 +1,250 @@
+[ { "code": "AD", "year": 1974, "name": "Andorra" }
+, { "code": "AE", "year": 1974, "name": "United Arab Emirates" }
+, { "code": "AF", "year": 1974, "name": "Afghanistan" }
+, { "code": "AG", "year": 1974, "name": "Antigua and Barbuda" }
+, { "code": "AI", "year": 1985, "name": "Anguilla" }
+, { "code": "AL", "year": 1974, "name": "Albania" }
+, { "code": "AM", "year": 1992, "name": "Armenia" }
+, { "code": "AO", "year": 1974, "name": "Angola" }
+, { "code": "AQ", "year": 1974, "name": "Antarctica" }
+, { "code": "AR", "year": 1974, "name": "Argentina" }
+, { "code": "AS", "year": 1974, "name": "American Samoa" }
+, { "code": "AT", "year": 1974, "name": "Austria" }
+, { "code": "AU", "year": 1974, "name": "Australia" }
+, { "code": "AW", "year": 1986, "name": "Aruba" }
+, { "code": "AX", "year": 2004, "name": "Åland Islands" }
+, { "code": "AZ", "year": 1992, "name": "Azerbaijan" }
+, { "code": "BA", "year": 1992, "name": "Bosnia and Herzegovina" }
+, { "code": "BB", "year": 1974, "name": "Barbados" }
+, { "code": "BD", "year": 1974, "name": "Bangladesh" }
+, { "code": "BE", "year": 1974, "name": "Belgium" }
+, { "code": "BF", "year": 1984, "name": "Burkina Faso" }
+, { "code": "BG", "year": 1974, "name": "Bulgaria" }
+, { "code": "BH", "year": 1974, "name": "Bahrain" }
+, { "code": "BI", "year": 1974, "name": "Burundi" }
+, { "code": "BJ", "year": 1977, "name": "Benin" }
+, { "code": "BL", "year": 2007, "name": "Saint Barthélemy" }
+, { "code": "BM", "year": 1974, "name": "Bermuda" }
+, { "code": "BN", "year": 1974, "name": "Brunei Darussalam" }
+, { "code": "BO", "year": 1974, "name": "Bolivia, Plurinational State of" }
+, { "code": "BQ", "year": 2010, "name": "Bonaire, Sint Eustatius and Saba" }
+, { "code": "BR", "year": 1974, "name": "Brazil" }
+, { "code": "BS", "year": 1974, "name": "Bahamas" }
+, { "code": "BT", "year": 1974, "name": "Bhutan" }
+, { "code": "BV", "year": 1974, "name": "Bouvet Island" }
+, { "code": "BW", "year": 1974, "name": "Botswana" }
+, { "code": "BY", "year": 1974, "name": "Belarus" }
+, { "code": "BZ", "year": 1974, "name": "Belize" }
+, { "code": "CA", "year": 1974, "name": "Canada" }
+, { "code": "CC", "year": 1974, "name": "Cocos (Keeling) Islands" }
+, { "code": "CD", "year": 1997, "name": "Congo, the Democratic Republic of the" }
+, { "code": "CF", "year": 1974, "name": "Central African Republic" }
+, { "code": "CG", "year": 1974, "name": "Congo" }
+, { "code": "CH", "year": 1974, "name": "Switzerland" }
+, { "code": "CI", "year": 1974, "name": "Côte d'Ivoire" }
+, { "code": "CK", "year": 1974, "name": "Cook Islands" }
+, { "code": "CL", "year": 1974, "name": "Chile" }
+, { "code": "CM", "year": 1974, "name": "Cameroon" }
+, { "code": "CN", "year": 1974, "name": "China" }
+, { "code": "CO", "year": 1974, "name": "Colombia" }
+, { "code": "CR", "year": 1974, "name": "Costa Rica" }
+, { "code": "CU", "year": 1974, "name": "Cuba" }
+, { "code": "CV", "year": 1974, "name": "Cabo Verde" }
+, { "code": "CW", "year": 2010, "name": "Curaçao" }
+, { "code": "CX", "year": 1974, "name": "Christmas Island" }
+, { "code": "CY", "year": 1974, "name": "Cyprus" }
+, { "code": "CZ", "year": 1993, "name": "Czechia" }
+, { "code": "DE", "year": 1974, "name": "Germany" }
+, { "code": "DJ", "year": 1977, "name": "Djibouti" }
+, { "code": "DK", "year": 1974, "name": "Denmark" }
+, { "code": "DM", "year": 1974, "name": "Dominica" }
+, { "code": "DO", "year": 1974, "name": "Dominican Republic" }
+, { "code": "DZ", "year": 1974, "name": "Algeria" }
+, { "code": "EC", "year": 1974, "name": "Ecuador" }
+, { "code": "EE", "year": 1992, "name": "Estonia" }
+, { "code": "EG", "year": 1974, "name": "Egypt" }
+, { "code": "EH", "year": 1974, "name": "Western Sahara" }
+, { "code": "ER", "year": 1993, "name": "Eritrea" }
+, { "code": "ES", "year": 1974, "name": "Spain" }
+, { "code": "ET", "year": 1974, "name": "Ethiopia" }
+, { "code": "FI", "year": 1974, "name": "Finland" }
+, { "code": "FJ", "year": 1974, "name": "Fiji" }
+, { "code": "FK", "year": 1974, "name": "Falkland Islands (Malvinas)" }
+, { "code": "FM", "year": 1986, "name": "Micronesia, Federated States of" }
+, { "code": "FO", "year": 1974, "name": "Faroe Islands" }
+, { "code": "FR", "year": 1974, "name": "France" }
+, { "code": "GA", "year": 1974, "name": "Gabon" }
+, { "code": "GB", "year": 1974, "name": "United Kingdom of Great Britain and Northern Ireland" }
+, { "code": "GD", "year": 1974, "name": "Grenada" }
+, { "code": "GE", "year": 1992, "name": "Georgia" }
+, { "code": "GF", "year": 1974, "name": "French Guiana" }
+, { "code": "GG", "year": 2006, "name": "Guernsey" }
+, { "code": "GH", "year": 1974, "name": "Ghana" }
+, { "code": "GI", "year": 1974, "name": "Gibraltar" }
+, { "code": "GL", "year": 1974, "name": "Greenland" }
+, { "code": "GM", "year": 1974, "name": "Gambia" }
+, { "code": "GN", "year": 1974, "name": "Guinea" }
+, { "code": "GP", "year": 1974, "name": "Guadeloupe" }
+, { "code": "GQ", "year": 1974, "name": "Equatorial Guinea" }
+, { "code": "GR", "year": 1974, "name": "Greece" }
+, { "code": "GS", "year": 1993, "name": "South Georgia and the South Sandwich Islands" }
+, { "code": "GT", "year": 1974, "name": "Guatemala" }
+, { "code": "GU", "year": 1974, "name": "Guam" }
+, { "code": "GW", "year": 1974, "name": "Guinea-Bissau" }
+, { "code": "GY", "year": 1974, "name": "Guyana" }
+, { "code": "HK", "year": 1974, "name": "Hong Kong" }
+, { "code": "HM", "year": 1974, "name": "Heard Island and McDonald Islands" }
+, { "code": "HN", "year": 1974, "name": "Honduras" }
+, { "code": "HR", "year": 1992, "name": "Croatia" }
+, { "code": "HT", "year": 1974, "name": "Haiti" }
+, { "code": "HU", "year": 1974, "name": "Hungary" }
+, { "code": "ID", "year": 1974, "name": "Indonesia" }
+, { "code": "IE", "year": 1974, "name": "Ireland" }
+, { "code": "IL", "year": 1974, "name": "Israel" }
+, { "code": "IM", "year": 2006, "name": "Isle of Man" }
+, { "code": "IN", "year": 1974, "name": "India" }
+, { "code": "IO", "year": 1974, "name": "British Indian Ocean Territory" }
+, { "code": "IQ", "year": 1974, "name": "Iraq" }
+, { "code": "IR", "year": 1974, "name": "Iran, Islamic Republic of" }
+, { "code": "IS", "year": 1974, "name": "Iceland" }
+, { "code": "IT", "year": 1974, "name": "Italy" }
+, { "code": "JE", "year": 2006, "name": "Jersey" }
+, { "code": "JM", "year": 1974, "name": "Jamaica" }
+, { "code": "JO", "year": 1974, "name": "Jordan" }
+, { "code": "JP", "year": 1974, "name": "Japan" }
+, { "code": "KE", "year": 1974, "name": "Kenya" }
+, { "code": "KG", "year": 1992, "name": "Kyrgyzstan" }
+, { "code": "KH", "year": 1974, "name": "Cambodia" }
+, { "code": "KI", "year": 1979, "name": "Kiribati" }
+, { "code": "KM", "year": 1974, "name": "Comoros" }
+, { "code": "KN", "year": 1974, "name": "Saint Kitts and Nevis" }
+, { "code": "KP", "year": 1974, "name": "Korea, Democratic People's Republic of" }
+, { "code": "KR", "year": 1974, "name": "Korea, Republic of" }
+, { "code": "KW", "year": 1974, "name": "Kuwait" }
+, { "code": "KY", "year": 1974, "name": "Cayman Islands" }
+, { "code": "KZ", "year": 1992, "name": "Kazakhstan" }
+, { "code": "LA", "year": 1974, "name": "Lao People's Democratic Republic" }
+, { "code": "LB", "year": 1974, "name": "Lebanon" }
+, { "code": "LC", "year": 1974, "name": "Saint Lucia" }
+, { "code": "LI", "year": 1974, "name": "Liechtenstein" }
+, { "code": "LK", "year": 1974, "name": "Sri Lanka" }
+, { "code": "LR", "year": 1974, "name": "Liberia" }
+, { "code": "LS", "year": 1974, "name": "Lesotho" }
+, { "code": "LT", "year": 1992, "name": "Lithuania" }
+, { "code": "LU", "year": 1974, "name": "Luxembourg" }
+, { "code": "LV", "year": 1992, "name": "Latvia" }
+, { "code": "LY", "year": 1974, "name": "Libya" }
+, { "code": "MA", "year": 1974, "name": "Morocco" }
+, { "code": "MC", "year": 1974, "name": "Monaco" }
+, { "code": "MD", "year": 1992, "name": "Moldova, Republic of" }
+, { "code": "ME", "year": 2006, "name": "Montenegro" }
+, { "code": "MF", "year": 2007, "name": "Saint Martin (French part)" }
+, { "code": "MG", "year": 1974, "name": "Madagascar" }
+, { "code": "MH", "year": 1986, "name": "Marshall Islands" }
+, { "code": "MK", "year": 1993, "name": "Macedonia, the former Yugoslav Republic of" }
+, { "code": "ML", "year": 1974, "name": "Mali" }
+, { "code": "MM", "year": 1989, "name": "Myanmar" }
+, { "code": "MN", "year": 1974, "name": "Mongolia" }
+, { "code": "MO", "year": 1974, "name": "Macao" }
+, { "code": "MP", "year": 1986, "name": "Northern Mariana Islands" }
+, { "code": "MQ", "year": 1974, "name": "Martinique" }
+, { "code": "MR", "year": 1974, "name": "Mauritania" }
+, { "code": "MS", "year": 1974, "name": "Montserrat" }
+, { "code": "MT", "year": 1974, "name": "Malta" }
+, { "code": "MU", "year": 1974, "name": "Mauritius" }
+, { "code": "MV", "year": 1974, "name": "Maldives" }
+, { "code": "MW", "year": 1974, "name": "Malawi" }
+, { "code": "MX", "year": 1974, "name": "Mexico" }
+, { "code": "MY", "year": 1974, "name": "Malaysia" }
+, { "code": "MZ", "year": 1974, "name": "Mozambique" }
+, { "code": "NA", "year": 1974, "name": "Namibia" }
+, { "code": "NC", "year": 1974, "name": "New Caledonia" }
+, { "code": "NE", "year": 1974, "name": "Niger" }
+, { "code": "NF", "year": 1974, "name": "Norfolk Island" }
+, { "code": "NG", "year": 1974, "name": "Nigeria" }
+, { "code": "NI", "year": 1974, "name": "Nicaragua" }
+, { "code": "NL", "year": 1974, "name": "Netherlands" }
+, { "code": "NO", "year": 1974, "name": "Norway" }
+, { "code": "NP", "year": 1974, "name": "Nepal" }
+, { "code": "NR", "year": 1974, "name": "Nauru" }
+, { "code": "NU", "year": 1974, "name": "Niue" }
+, { "code": "NZ", "year": 1974, "name": "New Zealand" }
+, { "code": "OM", "year": 1974, "name": "Oman" }
+, { "code": "PA", "year": 1974, "name": "Panama" }
+, { "code": "PE", "year": 1974, "name": "Peru" }
+, { "code": "PF", "year": 1974, "name": "French Polynesia" }
+, { "code": "PG", "year": 1974, "name": "Papua New Guinea" }
+, { "code": "PH", "year": 1974, "name": "Philippines" }
+, { "code": "PK", "year": 1974, "name": "Pakistan" }
+, { "code": "PL", "year": 1974, "name": "Poland" }
+, { "code": "PM", "year": 1974, "name": "Saint Pierre and Miquelon" }
+, { "code": "PN", "year": 1974, "name": "Pitcairn" }
+, { "code": "PR", "year": 1974, "name": "Puerto Rico" }
+, { "code": "PS", "year": 1999, "name": "Palestine, State of" }
+, { "code": "PT", "year": 1974, "name": "Portugal" }
+, { "code": "PW", "year": 1986, "name": "Palau" }
+, { "code": "PY", "year": 1974, "name": "Paraguay" }
+, { "code": "QA", "year": 1974, "name": "Qatar" }
+, { "code": "RE", "year": 1974, "name": "Réunion" }
+, { "code": "RO", "year": 1974, "name": "Romania" }
+, { "code": "RS", "year": 2006, "name": "Serbia" }
+, { "code": "RU", "year": 1992, "name": "Russian Federation" }
+, { "code": "RW", "year": 1974, "name": "Rwanda" }
+, { "code": "SA", "year": 1974, "name": "Saudi Arabia" }
+, { "code": "SB", "year": 1974, "name": "Solomon Islands" }
+, { "code": "SC", "year": 1974, "name": "Seychelles" }
+, { "code": "SD", "year": 1974, "name": "Sudan" }
+, { "code": "SE", "year": 1974, "name": "Sweden" }
+, { "code": "SG", "year": 1974, "name": "Singapore" }
+, { "code": "SH", "year": 1974, "name": "Saint Helena, Ascension and Tristan da Cunha" }
+, { "code": "SI", "year": 1992, "name": "Slovenia" }
+, { "code": "SJ", "year": 1974, "name": "Svalbard and Jan Mayen" }
+, { "code": "SK", "year": 1993, "name": "Slovakia" }
+, { "code": "SL", "year": 1974, "name": "Sierra Leone" }
+, { "code": "SM", "year": 1974, "name": "San Marino" }
+, { "code": "SN", "year": 1974, "name": "Senegal" }
+, { "code": "SO", "year": 1974, "name": "Somalia" }
+, { "code": "SR", "year": 1974, "name": "Suriname" }
+, { "code": "SS", "year": 2011, "name": "South Sudan" }
+, { "code": "ST", "year": 1974, "name": "Sao Tome and Principe" }
+, { "code": "SV", "year": 1974, "name": "El Salvador" }
+, { "code": "SX", "year": 2010, "name": "Sint Maarten (Dutch part)" }
+, { "code": "SY", "year": 1974, "name": "Syrian Arab Republic" }
+, { "code": "SZ", "year": 1974, "name": "Swaziland" }
+, { "code": "TC", "year": 1974, "name": "Turks and Caicos Islands" }
+, { "code": "TD", "year": 1974, "name": "Chad" }
+, { "code": "TF", "year": 1979, "name": "French Southern Territories" }
+, { "code": "TG", "year": 1974, "name": "Togo" }
+, { "code": "TH", "year": 1974, "name": "Thailand" }
+, { "code": "TJ", "year": 1992, "name": "Tajikistan" }
+, { "code": "TK", "year": 1974, "name": "Tokelau" }
+, { "code": "TL", "year": 2002, "name": "Timor-Leste" }
+, { "code": "TM", "year": 1992, "name": "Turkmenistan" }
+, { "code": "TN", "year": 1974, "name": "Tunisia" }
+, { "code": "TO", "year": 1974, "name": "Tonga" }
+, { "code": "TR", "year": 1974, "name": "Turkey" }
+, { "code": "TT", "year": 1974, "name": "Trinidad and Tobago" }
+, { "code": "TV", "year": 1977, "name": "Tuvalu" }
+, { "code": "TW", "year": 1974, "name": "Taiwan, Province of China" }
+, { "code": "TZ", "year": 1974, "name": "Tanzania, United Republic of" }
+, { "code": "UA", "year": 1974, "name": "Ukraine" }
+, { "code": "UG", "year": 1974, "name": "Uganda" }
+, { "code": "UM", "year": 1986, "name": "United States Minor Outlying Islands" }
+, { "code": "US", "year": 1974, "name": "United States of America" }
+, { "code": "UY", "year": 1974, "name": "Uruguay" }
+, { "code": "UZ", "year": 1992, "name": "Uzbekistan" }
+, { "code": "VA", "year": 1974, "name": "Holy See" }
+, { "code": "VC", "year": 1974, "name": "Saint Vincent and the Grenadines" }
+, { "code": "VE", "year": 1974, "name": "Venezuela, Bolivarian Republic of" }
+, { "code": "VG", "year": 1974, "name": "Virgin Islands, British" }
+, { "code": "VI", "year": 1974, "name": "Virgin Islands, U.S." }
+, { "code": "VN", "year": 1974, "name": "Viet Nam" }
+, { "code": "VU", "year": 1980, "name": "Vanuatu" }
+, { "code": "WF", "year": 1974, "name": "Wallis and Futuna" }
+, { "code": "WS", "year": 1974, "name": "Samoa" }
+, { "code": "YE", "year": 1974, "name": "Yemen" }
+, { "code": "YT", "year": 1993, "name": "Mayotte" }
+, { "code": "ZA", "year": 1974, "name": "South Africa" }
+, { "code": "ZM", "year": 1974, "name": "Zambia" }
+, { "code": "ZW", "year": 1980, "name": "Zimbabwe" }
+]

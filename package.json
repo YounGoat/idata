@@ -1,0 +1,27 @@
+{
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "^3.3.0"
+    },
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "idata",
+    "version": "0.0.1",
+    "keywords": [
+        "TLD",
+        "TLDN"
+    ],
+    "homepage": "https://github.com/YounGoat/idata",
+    "description": "Frequently used common data.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/idata.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    }
+}
