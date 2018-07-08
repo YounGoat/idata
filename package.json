@@ -8,8 +8,9 @@
         "test": "mocha"
     },
     "name": "idata",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "keywords": [
+        "country-code",
         "TLD",
         "TLDN"
     ],
