@@ -2,7 +2,7 @@
 
 > A top-level domain (TLD) is one of the domains at the highest level in the hierarchical Domain Name System of the Internet.
 
-Primary TLD data are offered via `idata/tld`, while `idata/tld2` will directly return and array of typed top-level domains.
+Primary TLD data are offered via `idata/tld`, while `idata/tld2` will directly return an array of typed top-level domains.
 
 ```javascript
 // Obtain all TLDs with basic information (e.g. domain, type and manager).
@@ -11,6 +11,7 @@ tld.find(element => element.domain == '.com');
 
 // Obtain typed TLDs in domain.
 const tld2 = require('idata/tld2');
+tld2('ARPA');
 // [ ..., '.cn', ... '.com', ... ]
 
 ```
@@ -52,18 +53,32 @@ Primitive data are downloaded from iana, [Root Zone Database](https://www.iana.o
 
 *   string *manager* 
 
+##  APIs
+
+*   object[] __tld__()
+*   string[] __tld__(string *typename*)
+
 ## Types
 
-Types available for `tld2()` include:
+Typenames available for `tld2(typename)` include:
 
 *   __ARPA__ | __infrastructure__  
     The only one belonging to this type is `.apra` .
-*   __ccTLD__ | __country-code__ | __cc__ 
-*   __gTLD__ | __generic__ | __g__  
-*   __grTLD__ | __generic-restricted__ | __gr__
-*   __sTLD__ | __sponsored__ | __s__ 
-*   __tTLD__ | __test__ | __t__
 
+*   __ccTLD__ | __country-code__ | __cc__  
+    `cn`, `jp`, `ge` etc.
+
+*   __gTLD__ | __generic__ | __g__  
+    `.com`, `.org` etc.
+
+*   __grTLD__ | __generic-restricted__ | __gr__
+    `.biz`, `.name` etc.
+
+*   __sTLD__ | __sponsored__ | __s__ 
+    Those sponsored by some organizations or companies. E.g., `.asia` is managed by DotAsia Organisation Ltd..
+
+*   __tTLD__ | __test__ | __t__  
+    Those for test usage only.
 
 ##  References
 

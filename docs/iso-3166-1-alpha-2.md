@@ -2,7 +2,6 @@
 
 ATTENTION: Only __official assigned__ codes are included here. 
 
-
 ```javascript
 const alpha2 = require('idata/iso-3166-1-alpha-2');
 alpha2.find(element => element.code == 'CN');
