@@ -11,8 +11,8 @@ tld.find(element => element.domain == '.com');
 
 // Obtain typed TLDs in domain.
 const tld2 = require('idata/tld2');
-tld2('ARPA');
-// [ ..., '.cn', ... '.com', ... ]
+tld2('ccTLD');
+// [ ..., '.cn', ... '.uk', ... ]
 
 ```
 
@@ -71,10 +71,10 @@ Typenames available for `tld2(typename)` include:
 *   __gTLD__ | __generic__ | __g__  
     `.com`, `.org` etc.
 
-*   __grTLD__ | __generic-restricted__ | __gr__
+*   __grTLD__ | __generic-restricted__ | __gr__  
     `.biz`, `.name` etc.
 
-*   __sTLD__ | __sponsored__ | __s__ 
+*   __sTLD__ | __sponsored__ | __s__  
     Those sponsored by some organizations or companies. E.g., `.asia` is managed by DotAsia Organisation Ltd..
 
 *   __tTLD__ | __test__ | __t__  
