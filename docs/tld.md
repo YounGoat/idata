@@ -9,7 +9,7 @@ Primary TLD data are offered via `idata/tld`, while `idata/tld2` will directly r
 const tld = require('idata/tld');
 tld.find(element => element.domain == '.com');
 
-// Obtain typed TLDs in domain.
+// Obtain typed TLDs in domain.
 const tld2 = require('idata/tld2');
 tld2('ARPA');
 // [ ..., '.cn', ... '.com', ... ]
@@ -40,7 +40,7 @@ Primitive data are downloaded from iana, [Root Zone Database](https://www.iana.o
     ATTENTION: Some domains are __NOT__ made up of __latin-1__ characters (e.g. `.组织机构`).
 
 *   ENUM *type*  
-    A singal word or hyphen-connected in lower-case, representing the domain's type.   
+    A singal word or hyphen-connected in lower-case, representing the domain's type.   
     Which may be one of the following:
     *   __country-code__
     *   __generic__
